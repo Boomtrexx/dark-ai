@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^14.12.1",
+    "djs-commander": "^0.0.50",
+    "replicate": "^0.11.1"
+  },
+  "name": "workspace",
+  "description": "",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "",
+  "license": "ISC"
+}
